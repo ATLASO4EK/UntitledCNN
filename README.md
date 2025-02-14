@@ -1,4 +1,6 @@
 # UntitledCNN
-Classifier CNN + Localizer CNN
+Classifier CNN (hyita) + Localizer CNN (hyita)
 # Description
-ZaLuPa
+ZaLuPa EbAnAyA NeRaBocHaYa SuKa NaHyI BlYat
+# Dataset:
+https://disk.yandex.ru/d/r4E86XY3E3mmcw
